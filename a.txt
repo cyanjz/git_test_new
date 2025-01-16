@@ -1,2 +1,1 @@
-test
-not for test
+test for test
